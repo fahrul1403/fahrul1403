@@ -1,6 +1,6 @@
 ![logo](https://github.com/fahrul1403/ProfileGithub/blob/main/backgroud.png)
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
-<h3 align="center">A Student IT at President University</h3>
+<h3 align="center">A IT Student at President University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrul1403&label=Profile%20views&color=0e75b6&style=flat" alt="fahrul1403" /> </p>
 
