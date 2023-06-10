@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/fahrul1403/ProfileGithub/mainbackground.PNG)
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
 <h3 align="center">IT student at President University</h3>
 
