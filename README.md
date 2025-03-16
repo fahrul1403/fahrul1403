@@ -1,4 +1,4 @@
-![logo](https://github.com/fahrul1403/fahrul1403/blob/main/Biru Modern Spanduk Posko KKN (1)(1).png
+![logo](https://github.com/fahrul1403/fahrul1403/blob/main/new_background.png
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
 <h3 align="center">a Final-year IT Student at President University</h3>
 
