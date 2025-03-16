@@ -1,4 +1,4 @@
-![logo](https://github.com/fahrul1403/new_background.png
+[![logo](https://github.com/fahrul1403/new_background.png](https://github.com/fahrul1403/fahrul1403/blob/c09f636236bcc23035c4a8c57e7a264916cbd25d/new_background.png)
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
 <h3 align="center">a Final-year IT Student at President University</h3>
 
