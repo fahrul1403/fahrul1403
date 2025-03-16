@@ -1,4 +1,4 @@
-[!logo](https://github.com/fahrul1403/fahrul1403/blob/44ed596f8a6b13a1224a2dbefa93a53b14781092/new_background.png)
+![logo](https://github.com/fahrul1403/fahrul1403/blob/44ed596f8a6b13a1224a2dbefa93a53b14781092/new_background.png)
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
 <h3 align="center">a Software engineer at Central Bank Mandiri</h3>
 
