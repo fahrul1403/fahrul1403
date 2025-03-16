@@ -1,12 +1,12 @@
-[![logo](https://github.com/fahrul1403/fahrul1403/blob/c09f636236bcc23035c4a8c57e7a264916cbd25d/new_background.png)
+[![logo](https://github.com/fahrul1403/fahrul1403/blob/44ed596f8a6b13a1224a2dbefa93a53b14781092/new_background.png)
 <h1 align="center">Hi 👋, I'm MUH. FAHRUL</h1>
-<h3 align="center">a Final-year IT Student at President University</h3>
+<h3 align="center">a Software engineer at Central Bank Mandiri</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrul1403&label=Profile%20views&color=0e75b6&style=flat" alt="fahrul1403" /> </p>
 
-- 🔭 I’m currently working as **Web Developer Intern**
+- 🔭 I’m currently working as **Software Engineer and Entrepreneur**
 
 - 👯 I’m was collaborate with Restuinvestama Company [Creating Website Company Profile Company](restuinvestama.com)
 
